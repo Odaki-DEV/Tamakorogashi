@@ -1,2 +1,3 @@
 # Tamakorogashi
-ただ、玉が転がるだけ
+ただ、玉が転がるだけ  
+Rigidbodyサンプル
